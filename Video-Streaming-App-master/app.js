@@ -1,4 +1,3 @@
-//Importing Dependencies
 
 const express = require("express");
 const app = express();
